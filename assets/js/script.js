@@ -18,6 +18,11 @@ function blockUpdate () {
         $(this).removeClass("future")
         $(this).addClass("present")
     }    
+    else if(actualTime > hourId){
+        $(this).addClass("past")
+    } else {
+        $(this).addClass("future")
+    }
     })
 }
 
