@@ -22,6 +22,6 @@ This is a basic day planner app that loops through the hours of 8am - 5pm(typica
 https://amir-hackett.github.io/work-day-scheduler/
 
 ## Mock Up
-![recording of index.html](./assets/Screen-Recording.mov)
+![recording of index.html](./assets/Screen-Recording.gif)
 
 Amir Hackett ©2022
